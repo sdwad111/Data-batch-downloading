@@ -1,1 +1,0 @@
-Existing virtual globes, such as Cesium, cannot support the visualization of irregular grid data. To address this challenge, we propose a new method that transforms irregular grid raster data into regular grid raster data. 
